@@ -6,7 +6,7 @@ class add{
     int a,b,c;
     public:
    int input(){
-        cout<<"input the num.";
+        cout<<"Enter the num.";
         cin>>a>>b;
     }
     int addition(){
@@ -22,3 +22,4 @@ class add{
         a1.output();
         return 0;
     }
+
